@@ -25,13 +25,11 @@ nav {
 .logo {
   height: 80px;
   padding-left: 10px;
-  margin-right: auto;
-}
+  }
 
 .logo2 {
   padding-left: 10px;
-  margin-right: auto;
-}
+  }
 
 .line {
   display: flex;
