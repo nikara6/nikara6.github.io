@@ -25,11 +25,11 @@ nav {
 .logo {
   height: 80px;
   padding-left: 10px;
-  }
+}
 
 .logo2 {
   padding-left: 10px;
-  }
+}
 
 .line {
   display: flex;
@@ -44,7 +44,7 @@ nav {
 .social {
   display: flex;
   align-items: center;
-  margin-right: auto;
+  margin-right: 1vw;
 }
 
 .discord {
