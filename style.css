@@ -92,7 +92,7 @@ nav {
 
 .link {
   text-decoration: none;
-  color: white;
+  color: rgb(154, 176, 194);
   margin-left: 5px;
   margin-bottom: 1px;
   transition: 0.2s;
@@ -211,7 +211,7 @@ nav {
 }
 @keyframes fadeInOut {
   from {
-    opacity: 0;
+    opacity: 0.3;
   }
   to {
     opacity: 1;
