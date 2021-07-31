@@ -46,6 +46,7 @@ nav {
   display: flex;
   align-items: center;
   margin-right: 1vw;
+  left:50px;
 }
 
 .discord {
