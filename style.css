@@ -169,7 +169,7 @@ nav {
 }
 
 .code {
-  text-transform: lowercase;
+  text-transform: none;
   font-size: 16px;
   font-weight: 500;
   color: #ffffff;
